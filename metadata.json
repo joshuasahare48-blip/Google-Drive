@@ -1,0 +1,6 @@
+{
+  "name": "A Study on Online Payment App Adoption Among Street Vendors",
+  "description": "This survey is conducted to understand the use, benefits, and challenges of online payment apps among street vendors. The information collected will be used for academic research purposes only.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
